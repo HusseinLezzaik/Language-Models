@@ -36,4 +36,4 @@
 - [PaLM PyTorch](https://github.com/lucidrains/PaLM-pytorch)
 - [gpt2](https://github.com/openai/gpt-2)
 
-This repo was released at ~1am EST April 7 2023, it'll probably be outdated by 12pm ;)
+This repo was released at ~1am EST April 7 2023, it'll probably be outdated by 12pm :D
